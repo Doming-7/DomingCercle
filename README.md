@@ -82,7 +82,7 @@ Or simply double-click `index.html` in your file explorer.
 
 ## 👤 Author
 
-Made by **[your name]** — learning web dev one project at a time.
+Made by Doming-7 — learning web dev one project at a time.
 
 ---
 
